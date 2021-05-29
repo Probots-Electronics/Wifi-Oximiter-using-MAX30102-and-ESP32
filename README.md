@@ -21,14 +21,14 @@ This code uses the maxim_heart_rate_and_oxygen_saturation() function as per Maxi
 ### Connections
 The Connections are simple and straight forward.
 
-<center>
+
 ESP32 | VL53L1X board
------------- | -------------
+:------------: | :-------------:
 3V3|VIN
 GND|GND
 SDA (GPIO21)|SDA
 SCL (GPIO22)|SCL
-</center>
+
 
 ## How to modify the code to your requirement
 
