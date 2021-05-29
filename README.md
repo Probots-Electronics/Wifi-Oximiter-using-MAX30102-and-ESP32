@@ -1,6 +1,8 @@
 # Wifi Oximiter using MAX30102 and ESP32
 Code for simple WiFi Oximeter that sends BPM &amp; SPO2 values to a mobile app
 
+![Wifi Oximiter using MAX30102 and ESP32](./images/WorkingDemo.JPG)
+
 This repository contains a program (to be flashed on an ESP32, using the Arduino IDE) which allows to create a sensor capable of sensing Oxygen Saturation SPO2 and Heart Pulse Rate. It works using the MAX30102 sensor by Maxim. The data is then sent to a Mobile App through WiFi where it is displayed.
 
 ## Idea behind the Program
