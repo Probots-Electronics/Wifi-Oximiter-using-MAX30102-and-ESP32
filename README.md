@@ -41,3 +41,9 @@ To get the best accuracy you have to ensure the following -
 ```n_spo2_calc =103.0-(17.0*n_ratio_average/100.0);```
 
 If you are building a medical device, you have to calibrate the sensor by comparing readings with another calibrated sensor. Maxim has detialed App Notes which explain this and you will get the latest versions on thier website.
+
+If you are keen on building this project, the links provided below will help you build it
+
+[Part 1 of the article](https://tutorials.probots.co.in/using-the-max30102-pulse-oximeter-sensor-part-1-getting-started/)
+
+[Part 2 of the article](https://tutorials.probots.co.in/using-the-max30102-pulse-oximeter-sensor-part-2-getting-accurate-readings/)
